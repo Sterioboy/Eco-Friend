@@ -1,0 +1,12 @@
+.card {
+  margin: 10px 10px 10px 10px;
+}
+
+.confirm_info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.title {
+}

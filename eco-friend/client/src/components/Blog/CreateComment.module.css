@@ -1,0 +1,12 @@
+.CreateComment {
+  max-width: 900px;
+  min-width: 400px;
+  margin-top: 3px;
+}
+.btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-top: 10px;
+  align-items: center;
+}

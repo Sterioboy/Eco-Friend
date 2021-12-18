@@ -1,0 +1,9 @@
+.Blog {
+  padding-left: 20px;
+  background-color: #21325a;
+}
+.entries_blocks {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

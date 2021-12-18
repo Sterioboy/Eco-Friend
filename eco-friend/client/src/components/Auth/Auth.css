@@ -1,0 +1,18 @@
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 170px;
+}
+.login-input {
+  width: 350px;
+  margin-top: 10px;
+}
+.login-form-button {
+  margin-top: 10px;
+}
+.password_req {
+  color: white;
+  margin-top: 20px;
+}

@@ -1,0 +1,67 @@
+.box {
+  padding: 1rem;
+}
+.custom_file_upload {
+  cursor: pointer;
+}
+
+.container {
+  position: relative;
+}
+
+.container:hover .imgs {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.imgs {
+  width: 100%;
+  max-width: 100%;
+  transition: 0.5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: 0.5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.text {
+  background-color: #04aa6d;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+.redbtn {
+  border-color: #f54242;
+  margin-right: 10px;
+  color: #f54242;
+  margin-top: 10px;
+}
+
+.redbtn:hover {
+  border-color: #f54242;
+  background-color: #f54242;
+  color: white;
+}
+
+.btn {
+  margin-right: 10px;
+}
+
+.error {
+  color: #f54242;
+}
+.account{
+  background-color: #21325a;
+}

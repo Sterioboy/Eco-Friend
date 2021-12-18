@@ -1,0 +1,15 @@
+.backLeaderboard {
+  background-color: #21325a;
+}
+
+.p {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 1em rgb(58, 58, 58);
+}
+
+.leaders_text{
+  justify-content: center;
+  display: flex;
+  color: white;
+  font-size: 20px;
+}

@@ -1,0 +1,63 @@
+.markerbtn_confirmed {
+  background: #a5fdad;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  border: 3px solid rgb(50, 165, 50);
+}
+
+.markerbtn_not_confirmed {
+  background: #ffdbdb;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  border: 3px solid rgb(231, 69, 20);
+}
+
+.markerbtn img {
+  width: 20px;
+  height: 20px;
+}
+.imgs {
+  width: 20px;
+  height: 20px;
+}
+
+.cluster {
+  color: rgb(255, 255, 255);
+  background: #4a5cff;
+  border-radius: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid rgb(0, 110, 255);
+}
+
+.card {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.navigation {
+  top: 50px;
+  right: 10px;
+}
+
+.moderator_btn {
+  position: absolute;
+  left: 10px;
+  bottom: 150px;
+}
+.Drawer_header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  max-height: 250px;
+  flex-direction: column;
+}

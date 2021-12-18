@@ -1,0 +1,32 @@
+.Popup {
+  max-width: 400px;
+  min-width: 400px;
+}
+.custom_file_upload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+.p_adress {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  max-width: 250px;
+  margin-bottom: -5px;
+}
+.upload_img{
+  display: flex;
+  align-content: flex-end;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.btns{
+  display: flex;
+  align-content: flex-end;
+  flex-direction: column;
+  margin-top: 10px;
+}

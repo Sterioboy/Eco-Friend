@@ -1,0 +1,39 @@
+
+.card {
+  padding: 1rem;
+  display: flex;
+  margin-top: 10px;
+  min-width: 800px;
+}
+.cardDescription p {
+  margin-bottom: 6px;
+}
+
+.like_btn {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+}
+
+.ant-card-cover {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+}
+
+.front_img {
+  width: 60px;
+  position: absolute;
+}
+.Search{
+  margin-top: 10px;
+  margin-bottom: 10px
+}

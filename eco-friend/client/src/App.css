@@ -1,0 +1,41 @@
+.body{
+  background-color: #21325a;
+}
+.ant-divider-horizontal {
+  min-width: 50px;
+}
+
+.ant-card-cover {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.News_News__3PGTU{
+  margin-left: 13px;
+  margin-top: 10px;
+  max-width: 400px;
+}
+.ant-card-body{
+  width: 500px;
+}
+.mapboxgl-popup-content{
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+  align-items: center;
+}
+.ant-drawer-header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+}
+.ant-card-body{
+  max-width: 350px;
+}
